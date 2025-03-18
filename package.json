@@ -4,7 +4,6 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "prepare": "husky",
     "lint": "eslint src/**",
     "lint-fix": "eslint src/** --fix",
     "success-message": "echo Thanks for committing $GIT_AUTHOR_NAME!"
