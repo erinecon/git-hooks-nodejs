@@ -1,5 +1,7 @@
 # git-hooks-nodejs
 
+> Note: I followed the course but it didn't work for me. Oh well.
+
 NodeJS application with Husky and Commitlint.
 
 Testing, linting, and verification of the commit message using automated Git Hooks with help of
