@@ -32,7 +32,7 @@
   },
   "commitlint":{
     "rules": {
-      "reference-empty": [2,"never"],
+      "reference-empty": [2,"never"]
     },
     "parserPreset": {
       "parserOpts": {
